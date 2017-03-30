@@ -1,5 +1,5 @@
 ## 7zip mounter
-Mounts 7zip/ZIP/RAR files.
+Mounts 7zip/ZIP/RAR files (read only).
 
 Usage: `Shaman.Dokan.Archive.exe <path-to-archive> [--open]`
 
