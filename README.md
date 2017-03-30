@@ -8,3 +8,6 @@ The archive is mounted in `C:\DokanFs\path-to-archive`. When `--open` is specifi
 Supports all the formats supported by SevenZipSharp.
 
 Requires [Dokan](http://dokan-dev.github.io/).
+
+### Screenshot
+![7zip mounter screenshot](https://raw.githubusercontent.com/antiufo/Shaman.Dokan.Archive/master/images/mount-archive.png)
